@@ -1,0 +1,7 @@
+**/.DS_Store
+tissue/*
+training_images/electrocautery/*
+training_images/electrocautery_training/electrocauteryMin3_electrocauterysegs/*
+training_images/shaver/*
+training_images/shaver_training/electrocauteryMin1_shaverimages/*
+training_images/shaver_training/electrocauteryMin3_shaverimages/*

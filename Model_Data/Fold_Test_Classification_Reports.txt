@@ -1,0 +1,120 @@
+Fold 0 Classification Report
+-------------------------------------------
+                     precision    recall  f1-score   support
+
+Electrocautery Tool       0.80      1.00      0.89       777
+        Shaver Tool       1.00      0.77      0.87       869
+            No Tool       1.00      1.00      1.00       483
+
+           accuracy                           0.91      2129
+          macro avg       0.93      0.92      0.92      2129
+       weighted avg       0.93      0.91      0.91      2129
+
+Fold 1 Classification Report
+-------------------------------------------
+                     precision    recall  f1-score   support
+
+Electrocautery Tool       1.00      0.95      0.97       777
+        Shaver Tool       0.96      1.00      0.98       869
+            No Tool       1.00      1.00      1.00       483
+
+           accuracy                           0.98      2129
+          macro avg       0.99      0.98      0.98      2129
+       weighted avg       0.98      0.98      0.98      2129
+
+Fold 2 Classification Report
+-------------------------------------------
+                     precision    recall  f1-score   support
+
+Electrocautery Tool       0.95      1.00      0.97       777
+        Shaver Tool       1.00      0.96      0.98       869
+            No Tool       1.00      1.00      1.00       483
+
+           accuracy                           0.98      2129
+          macro avg       0.98      0.98      0.98      2129
+       weighted avg       0.98      0.98      0.98      2129
+
+Fold 3 Classification Report
+-------------------------------------------
+                     precision    recall  f1-score   support
+
+Electrocautery Tool       0.99      0.96      0.97       777
+        Shaver Tool       0.96      0.99      0.98       868
+            No Tool       1.00      1.00      1.00       484
+
+           accuracy                           0.98      2129
+          macro avg       0.99      0.98      0.98      2129
+       weighted avg       0.98      0.98      0.98      2129
+
+Fold 4 Classification Report
+-------------------------------------------
+                     precision    recall  f1-score   support
+
+Electrocautery Tool       1.00      0.97      0.98       777
+        Shaver Tool       0.97      1.00      0.99       868
+            No Tool       1.00      1.00      1.00       484
+
+           accuracy                           0.99      2129
+          macro avg       0.99      0.99      0.99      2129
+       weighted avg       0.99      0.99      0.99      2129
+
+Fold 5 Classification Report
+-------------------------------------------
+                     precision    recall  f1-score   support
+
+Electrocautery Tool       1.00      0.99      0.99       777
+        Shaver Tool       0.99      1.00      0.99       868
+            No Tool       1.00      1.00      1.00       484
+
+           accuracy                           0.99      2129
+          macro avg       0.99      0.99      0.99      2129
+       weighted avg       0.99      0.99      0.99      2129
+
+Fold 6 Classification Report
+-------------------------------------------
+                     precision    recall  f1-score   support
+
+Electrocautery Tool       1.00      0.98      0.99       777
+        Shaver Tool       0.99      1.00      0.99       868
+            No Tool       1.00      1.00      1.00       483
+
+           accuracy                           0.99      2128
+          macro avg       0.99      0.99      0.99      2128
+       weighted avg       0.99      0.99      0.99      2128
+
+Fold 7 Classification Report
+-------------------------------------------
+                     precision    recall  f1-score   support
+
+Electrocautery Tool       1.00      0.99      0.99       777
+        Shaver Tool       0.99      1.00      0.99       868
+            No Tool       1.00      1.00      1.00       483
+
+           accuracy                           0.99      2128
+          macro avg       1.00      0.99      1.00      2128
+       weighted avg       0.99      0.99      0.99      2128
+
+Fold 8 Classification Report
+-------------------------------------------
+                     precision    recall  f1-score   support
+
+Electrocautery Tool       0.93      1.00      0.96       777
+        Shaver Tool       1.00      0.93      0.96       868
+            No Tool       1.00      1.00      1.00       483
+
+           accuracy                           0.97      2128
+          macro avg       0.98      0.98      0.98      2128
+       weighted avg       0.97      0.97      0.97      2128
+
+Fold 9 Classification Report
+-------------------------------------------
+                     precision    recall  f1-score   support
+
+Electrocautery Tool       0.99      0.99      0.99       776
+        Shaver Tool       0.99      0.99      0.99       869
+            No Tool       1.00      1.00      1.00       483
+
+           accuracy                           0.99      2128
+          macro avg       0.99      0.99      0.99      2128
+       weighted avg       0.99      0.99      0.99      2128
+
