@@ -1,6 +1,6 @@
 # Arthroscopic Tool Classification using Deep Learning
 
-![Alt text](.img/tools.png)
+![Alt text](img/tools.png)
 
 The goal of this project is to automatically differentiate between a small subset of surgical tools during the cleaning phase of shoulder arthroscopic surgery. Shoulder Arthroscopy is a surgical procedure that uses a small camera called an arthroscope to visualize, diagnose, and treat tears and other issues inside of the shoulder area. This procedure is used as a minimally invasive option as opposed to open surgery and is very common, with over 1.4 million arthroscopy surgeries performed per year. The larger goal is to create an automated system that is able to differentiate between expert and novice surgeons for teaching and performance assessment. Automated tool differentiation is a step towards that goal.
 
